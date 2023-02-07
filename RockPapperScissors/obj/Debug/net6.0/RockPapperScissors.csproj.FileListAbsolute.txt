@@ -1,0 +1,15 @@
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.exe
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.deps.json
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.runtimeconfig.json
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.dll
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\bin\Debug\net6.0\RockPapperScissors.pdb
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.csproj.AssemblyReference.cache
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.AssemblyInfoInputs.cache
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.AssemblyInfo.cs
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.csproj.CoreCompileInputs.cache
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.dll
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\refint\RockPapperScissors.dll
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.pdb
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\RockPapperScissors.genruntimeconfig.cache
+C:\Users\CRISTIAN\source\repos\RockPapperScissors\RockPapperScissors\obj\Debug\net6.0\ref\RockPapperScissors.dll
